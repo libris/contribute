@@ -6,7 +6,7 @@ Libris XL is published openly for transparency reasons. There are some ways that
 ## Using the issue tracker
 
 The issue tracker is the preferred channel for [bug reports](#bugs) and
-[features requests](#features) for technical issues regarding the Libris XL
+[feature requests](#features) for technical issues regarding the Libris XL
 technical platform, i.e the backend.<!-- and [submitting pull
 requests](#pull-requests)--> Please respect the following restrictions:
 
