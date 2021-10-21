@@ -1,12 +1,11 @@
 <a name="use"></a>
 ## Using the issue tracker
 
-The issue tracker is the preferred channel for [bug reports](#bugs),
-[features requests](#features) and [submitting pull
-requests](#pull-requests), but please respect the following restrictions:
+The issue tracker is the preferred channel for [bug reports](#bugs) and
+[features requests](#features)<!-- and [submitting pull
+requests](#pull-requests)-->, but please respect the following restrictions:
 
-* Please **do not** use the issue tracker for personal support requests (use
-  [Stack Overflow](http://stackoverflow.com) or IRC).
+* Please **do not** use the issue tracker for personal support requests.
 
 * Please **do not** derail or troll issues. Keep the discussion on topic and
   respect the opinions of others.
