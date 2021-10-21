@@ -2,8 +2,14 @@
 ## Using the issue tracker
 
 The issue tracker is the preferred channel for [bug reports](#bugs) and
-[features requests](#features)<!-- and [submitting pull
-requests](#pull-requests)-->, but please respect the following restrictions:
+[features requests](#features) for technical issues regarding the Libris XL
+technical platform, i.e the backend.<!-- and [submitting pull
+requests](#pull-requests)--> Please respect the following restrictions:
+
+* The issue tracker is for 
+  Please **do not** use the issue tracker for questions regarding the actual content or data quality in Libris.
+  
+* Please **do not** use the issue tracker for policy questions or Libris in general.
 
 * Please **do not** use the issue tracker for personal support requests.
 
