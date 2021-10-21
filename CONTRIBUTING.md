@@ -8,7 +8,7 @@ requests](#pull-requests)--> Please respect the following restrictions:
 
 * Please **do not** use the issue tracker for questions regarding the actual content or data quality in Libris.
   
-* Please **do not** use the issue tracker for policy questions or Libris in general.
+* Please **do not** use the issue tracker for policy questions or questions about Libris in general.
 
 * Please **do not** use the issue tracker for personal support requests.
 
