@@ -1,3 +1,7 @@
+# Contributing to Libris XL
+
+Libris XL is published openly for transparency reasons. There are some ways that you can contribute to the development and quality of Libris XL.
+
 <a name="use"></a>
 ## Using the issue tracker
 
